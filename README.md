@@ -1,2 +1,4 @@
 # Rajatmehta
-this is my first git repository
+this is my git repository
+br
+name - Rajat mehta
